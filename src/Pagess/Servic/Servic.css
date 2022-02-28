@@ -1,0 +1,17 @@
+.services button{
+    padding: 10px 40px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 10px 0;
+    border: #55e7fc;
+    color: #fff;
+    background-color: darkslategray;
+    border: 1px solid darkslategray ;
+}
+.services img {
+    width: 400px;
+    height: 300px;
+}
+.price-title{
+    font-weight: 800;
+}

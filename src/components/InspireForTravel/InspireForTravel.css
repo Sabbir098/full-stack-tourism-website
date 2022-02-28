@@ -1,0 +1,49 @@
+.flex{
+    display: flex;
+    margin-top: 5rem;
+    align-items: center;
+    justify-content:space-between;
+    border: lightgrey;
+    background-color: antiquewhite;
+    
+}
+.img img{
+    width: 450px;
+    height: 490px;
+}
+.inspire-text{
+    padding: 70px;
+}
+.inspire-text h2{
+   font-size: 30px;
+   line-height: 5rem;
+}
+.second-view{
+    margin: 30px 10px; 
+    position: relative;
+    background: rgba(0, 0, 0, 0.4);
+}
+.second-view img{
+    width: 100%;
+    height: 670px;
+}
+.heading{
+    color: white;
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    text-align: center;
+    font-size: 90px;
+    font-weight: 900;
+    z-index: 1000;
+
+}
+.book-btn{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 12px 30px;
+    margin: 10px 0;
+    border: #55e7fc;
+    background-color: darkslategray;
+    color: white;
+}

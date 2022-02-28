@@ -1,0 +1,67 @@
+.date-title{
+   margin-left: 30rem;
+    margin-top: 10rem;
+}
+
+.date-area{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin-top: 4rem;
+    /* justify-content: center; */
+    grid-gap: 40px;
+   
+    /* margin-left: 2rem; */
+    width: 50%;
+    /* background-color: antiquewhite; */
+}
+.countity{
+    margin-left: 21rem;
+    margin-top: 3rem;
+   
+    
+}
+.countity input{
+    border: 1px solid #000;
+    border-left: 0 none;
+    border-right: 0 none;
+    border-top: 0 none;
+    width: 19rem;
+    margin-top: 12px;
+    padding: 4px 10px;
+}
+.second-container{
+    display: flex;
+}
+.countity-2{
+    margin-top: 3rem;
+    margin-left: 2rem;
+}
+.countity-2 input{
+    border: 1px solid #000;
+    border-left: 0 none;
+    border-right: 0 none;
+    border-top: 0 none;
+    width: 19rem;
+    margin-top: 12px;
+    padding: 4px 10px;
+}
+.check-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3rem;
+}
+.check-btn button{
+    padding: 15px 90px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 10px 0;
+    border: #55e7fc;
+    color: #000;
+    border: 1px solid darkslategray ;
+}
+.check-btn button:hover{
+    color: white;
+    background-color: darkslategray;
+}

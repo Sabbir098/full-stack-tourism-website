@@ -1,0 +1,14 @@
+.login-title{
+    border-bottom: 1px solid gray;
+    line-height: 4rem;
+    width: 25%;
+    margin-left: 20rem;
+    margin-top: 4rem;
+}
+.google-btn{
+    padding: 7px 55px;
+    margin-left: 20rem;
+    margin-top: 3rem;
+    background-color: goldenrod;
+    border: 1px solid goldenrod;
+}

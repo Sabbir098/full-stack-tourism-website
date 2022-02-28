@@ -1,0 +1,31 @@
+.nav-container{
+    background-color: slategray;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px; 
+    
+}
+.ul{
+    color: #fff;
+    display: flex;
+    margin: 10px;
+}
+li{
+   display: flex;
+   margin: 0 20px;
+   z-index: 10;
+}
+li a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+.logo{
+    z-index: 10;
+    color: white;
+    /* padding: 2px; */
+    margin-left: 15px;
+    font-size: 20px;
+    font-weight: 800;
+}

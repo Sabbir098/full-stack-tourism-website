@@ -1,0 +1,25 @@
+.footer-flex{
+    display: flex;
+     grid-gap: 60px;
+     color: white;
+     background-color: rgb(22, 49, 49);
+     padding: 100px;
+}
+.copy-right {
+    background-color:rgb(22, 49, 49); 
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-top: 1px solid grey;
+}
+.news-letter input {
+    border-top: 0 none;
+    border-left: 0 none;
+    border-right: 0 none;
+    background-color: rgb(22, 49, 49) ;
+    padding: 3px;
+}
+.news-letter button {
+    padding: 3px 12px;
+    margin-left: 3px;
+}
